@@ -1,12 +1,12 @@
-CID_240_Athena_Commando_F_Plague, 1500
-CID_241_Athena_Commando_M_Plague, 1500
-EID_Tidy, 500
+CID_515_Athena_Commando_M_BarbequeLarry, 1500
+CID_438_Athena_Commando_M_WinterGhoulEclipse, 1500
+EID_NeverGonna, 500
+Glider_ID_108_Krampus, 600
 na
 na
-na
-CID_593_Athena_Commando_F_SoccerZombieA, 1200
-Wrap_139_Prismatic, 500
-Glider_Prismatic, 800
-CID_497_Athena_Commando_F_WildWest, 1200
-Pickaxe_ID_074_SharpDresser, 800
-EID_Darling, 500
+CID_703_Athena_Commando_M_Cyclone, 1200
+Wrap_178_Constellation, 100
+Glider_ID_196_CycloneMale, 400
+CID_675_Athena_Commando_M_TheGoldenSkeleton, 1200
+Pickaxe_ID_363_LollipopTricksterFemale, 800
+EID_BlackMondayFemale_6HO4L, 500
