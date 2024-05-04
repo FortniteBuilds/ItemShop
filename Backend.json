@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_620_Athena_Commando_L_BigChuggus"],
-    "price": 0
+    "itemGrants": ["AthenaCharacter:CID_515_Athena_Commando_M_BarbequeLarry","AthenaCharacter:CID_438_Athena_Commando_M_WinterGhoulEclipse"],
+    "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
-    "price": 800
+    "itemGrants": ["AthenaWrap:Wrap_178_Constellation"],
+    "price": 100
   },
   "daily3": {
-    "itemGrants": ["AthenaItemWrap:Wrap_128_FragmentedGlowEclipse"],
-    "price": 400
+    "itemGrants": ["AthenaGlider:Glider_ID_108_Krampus"],
+    "price": 600
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_715_Athena_Commando_F_TwinDark","AthenaBackpack:BID_489_TwinDark"],
+    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone","AthenaGlider:Glider_ID_196_CycloneMale"],
     "price": 1200
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_142_TeriyakiFish"],
-    "price": 500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
+    "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_Griddle_Beyond"],
-    "price": 0
+    "itemGrants": ["AthenaDance:EID_BlackMondayFemale_6HO4L"],
+    "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone","AthenaBackpack:BID_468_Cyclone"],
-    "price": 0
+    "itemGrants": ["AthenaCharacter:CID_240_Athena_Commando_F_Plague","AthenaBackpack:BID_128_PlagueFemale"],
+    "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_761_Athena_Commando_M_CycloneSpace","AthenaBackpack:BID_520_CycloneUniverse"],
-    "price": 0
+    "itemGrants": ["AthenaCharacter:CID_241_Athena_Commando_M_Plague","AthenaBackpack:BID_127_PlagueMale"],
+    "price": 1500
   },
    "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_359_CycloneMale"],
-    "price": 0
+    "itemGrants": ["AthenaDance:EID_Tidy"],
+    "price": 500
    }
 }
